@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\bin\Debug\Neww.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\bin\Debug\Neww.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\bin\Debug\Neww.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\obj\Debug\Neww.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\obj\Debug\Neww.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\obj\Debug\Neww.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Neww\Neww\obj\Debug\Neww.pdb

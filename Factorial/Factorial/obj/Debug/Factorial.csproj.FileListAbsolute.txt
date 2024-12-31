@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Factorial\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\obj\Debug\Arraysum.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\obj\Debug\Arraysum.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\bin\Debug\Arraysum.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\bin\Debug\Arraysum.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\bin\Debug\Arraysum.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\obj\Debug\Arraysum.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Arraysum\Arraysum\obj\Debug\Arraysum.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\bin\Debug\AreaofRectangle.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\bin\Debug\AreaofRectangle.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\bin\Debug\AreaofRectangle.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\obj\Debug\AreaofRectangle.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\obj\Debug\AreaofRectangle.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\obj\Debug\AreaofRectangle.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\AreaofRectangle\AreaofRectangle\obj\Debug\AreaofRectangle.pdb

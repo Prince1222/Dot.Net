@@ -1,0 +1,2 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ReadOnlyModifier\ReadOnlyModifier\obj\Debug\ReadOnlyModifier.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ReadOnlyModifier\ReadOnlyModifier\obj\Debug\ReadOnlyModifier.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\bin\Debug\Staticclass.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\bin\Debug\Staticclass.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\bin\Debug\Staticclass.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\obj\Debug\Staticclass.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\obj\Debug\Staticclass.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\obj\Debug\Staticclass.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Staticclass\Staticclass\obj\Debug\Staticclass.pdb

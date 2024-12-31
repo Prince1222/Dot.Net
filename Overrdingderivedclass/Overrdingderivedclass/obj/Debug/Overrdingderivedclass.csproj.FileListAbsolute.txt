@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\bin\Debug\Overrdingderivedclass.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\bin\Debug\Overrdingderivedclass.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\bin\Debug\Overrdingderivedclass.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\obj\Debug\Overrdingderivedclass.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\obj\Debug\Overrdingderivedclass.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\obj\Debug\Overrdingderivedclass.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Overrdingderivedclass\Overrdingderivedclass\obj\Debug\Overrdingderivedclass.pdb

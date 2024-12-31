@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\bin\Debug\MiniMaxiArray.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\bin\Debug\MiniMaxiArray.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\bin\Debug\MiniMaxiArray.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\obj\Debug\MiniMaxiArray.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\obj\Debug\MiniMaxiArray.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\obj\Debug\MiniMaxiArray.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\MiniMaxiArray\MiniMaxiArray\obj\Debug\MiniMaxiArray.pdb

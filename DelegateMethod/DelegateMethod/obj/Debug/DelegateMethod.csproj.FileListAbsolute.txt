@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\bin\Debug\DelegateMethod.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\bin\Debug\DelegateMethod.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\bin\Debug\DelegateMethod.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\obj\Debug\DelegateMethod.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\obj\Debug\DelegateMethod.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\obj\Debug\DelegateMethod.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateMethod\DelegateMethod\obj\Debug\DelegateMethod.pdb

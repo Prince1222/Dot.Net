@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\bin\Debug\StaticConstrauctor.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\bin\Debug\StaticConstrauctor.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\bin\Debug\StaticConstrauctor.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\obj\Debug\StaticConstrauctor.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\obj\Debug\StaticConstrauctor.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\obj\Debug\StaticConstrauctor.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\StaticConstrauctor\StaticConstrauctor\obj\Debug\StaticConstrauctor.pdb

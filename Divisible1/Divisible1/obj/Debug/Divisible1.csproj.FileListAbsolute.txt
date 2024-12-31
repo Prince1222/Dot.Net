@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\bin\Debug\Divisible1.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\bin\Debug\Divisible1.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\bin\Debug\Divisible1.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\obj\Debug\Divisible1.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\obj\Debug\Divisible1.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\obj\Debug\Divisible1.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Divisible1\Divisible1\obj\Debug\Divisible1.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\obj\Debug\Odd_Even.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\obj\Debug\Odd_Even.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\bin\Debug\Odd_Even.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\bin\Debug\Odd_Even.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\bin\Debug\Odd_Even.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\obj\Debug\Odd_Even.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Odd_Even\Odd_Even\obj\Debug\Odd_Even.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\Properties\Properties\obj\Debug\Properties.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\bin\Debug\Months.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\bin\Debug\Months.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\bin\Debug\Months.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\obj\Debug\Months.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\obj\Debug\Months.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\obj\Debug\Months.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Months\Months\obj\Debug\Months.pdb

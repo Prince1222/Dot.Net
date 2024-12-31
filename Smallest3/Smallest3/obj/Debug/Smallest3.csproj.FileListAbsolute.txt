@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\bin\Debug\Smallest3.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\bin\Debug\Smallest3.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\bin\Debug\Smallest3.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\obj\Debug\Smallest3.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\obj\Debug\Smallest3.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\obj\Debug\Smallest3.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Smallest3\Smallest3\obj\Debug\Smallest3.pdb

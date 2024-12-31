@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\bin\Debug\TwoMatrix.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\bin\Debug\TwoMatrix.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\bin\Debug\TwoMatrix.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\obj\Debug\TwoMatrix.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\obj\Debug\TwoMatrix.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\obj\Debug\TwoMatrix.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\TwoMatrix\TwoMatrix\obj\Debug\TwoMatrix.pdb

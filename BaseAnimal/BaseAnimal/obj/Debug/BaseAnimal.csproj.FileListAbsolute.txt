@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\bin\Debug\BaseAnimal.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\bin\Debug\BaseAnimal.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\bin\Debug\BaseAnimal.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\obj\Debug\BaseAnimal.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\obj\Debug\BaseAnimal.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\obj\Debug\BaseAnimal.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\BaseAnimal\BaseAnimal\obj\Debug\BaseAnimal.pdb

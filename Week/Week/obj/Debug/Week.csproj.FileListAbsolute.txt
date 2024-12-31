@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\bin\Debug\Week.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\bin\Debug\Week.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\bin\Debug\Week.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\obj\Debug\Week.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\obj\Debug\Week.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\obj\Debug\Week.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Week\Week\obj\Debug\Week.pdb

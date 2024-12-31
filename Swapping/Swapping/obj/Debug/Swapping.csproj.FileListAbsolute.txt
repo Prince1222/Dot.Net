@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\bin\Debug\Swapping.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\bin\Debug\Swapping.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\bin\Debug\Swapping.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\obj\Debug\Swapping.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Swapping\Swapping\obj\Debug\Swapping.pdb

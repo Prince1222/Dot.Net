@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\bin\Debug\basekeyboard.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\bin\Debug\basekeyboard.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\bin\Debug\basekeyboard.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\obj\Debug\basekeyboard.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\obj\Debug\basekeyboard.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\obj\Debug\basekeyboard.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\basekeyboard\basekeyboard\obj\Debug\basekeyboard.pdb

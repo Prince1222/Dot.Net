@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\bin\Debug\Ascending.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\bin\Debug\Ascending.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\bin\Debug\Ascending.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\obj\Debug\Ascending.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\obj\Debug\Ascending.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\obj\Debug\Ascending.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Ascending\Ascending\obj\Debug\Ascending.pdb

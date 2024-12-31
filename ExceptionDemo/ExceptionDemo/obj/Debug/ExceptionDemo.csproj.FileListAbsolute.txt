@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

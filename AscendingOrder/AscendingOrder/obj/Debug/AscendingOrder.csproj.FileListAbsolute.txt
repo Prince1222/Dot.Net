@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\bin\Debug\AscendingOrder.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\bin\Debug\AscendingOrder.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\bin\Debug\AscendingOrder.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\obj\Debug\AscendingOrder.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\obj\Debug\AscendingOrder.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\obj\Debug\AscendingOrder.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\AscendingOrder\AscendingOrder\obj\Debug\AscendingOrder.pdb

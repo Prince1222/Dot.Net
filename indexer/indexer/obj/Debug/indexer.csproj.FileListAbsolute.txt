@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\bin\Debug\indexer.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\bin\Debug\indexer.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\bin\Debug\indexer.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\obj\Debug\indexer.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\obj\Debug\indexer.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\obj\Debug\indexer.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\indexer\indexer\obj\Debug\indexer.pdb

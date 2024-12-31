@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\obj\Debug\Genericterm.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\obj\Debug\Genericterm.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\bin\Debug\Genericterm.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\bin\Debug\Genericterm.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\bin\Debug\Genericterm.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\obj\Debug\Genericterm.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Genericterm\Genericterm\obj\Debug\Genericterm.pdb

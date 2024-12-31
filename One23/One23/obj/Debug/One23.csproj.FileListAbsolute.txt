@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\bin\Debug\One23.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\bin\Debug\One23.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\bin\Debug\One23.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\obj\Debug\One23.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\obj\Debug\One23.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\obj\Debug\One23.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\One23\One23\obj\Debug\One23.pdb

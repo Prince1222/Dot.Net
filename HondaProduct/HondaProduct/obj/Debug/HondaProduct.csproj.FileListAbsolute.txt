@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\bin\Debug\HondaProduct.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\bin\Debug\HondaProduct.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\bin\Debug\HondaProduct.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\obj\Debug\HondaProduct.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\obj\Debug\HondaProduct.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\obj\Debug\HondaProduct.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\HondaProduct\HondaProduct\obj\Debug\HondaProduct.pdb

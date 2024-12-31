@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\obj\Debug\Biggest3.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\obj\Debug\Biggest3.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\bin\Debug\Biggest3.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\bin\Debug\Biggest3.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\bin\Debug\Biggest3.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\obj\Debug\Biggest3.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Biggest3\Biggest3\obj\Debug\Biggest3.pdb

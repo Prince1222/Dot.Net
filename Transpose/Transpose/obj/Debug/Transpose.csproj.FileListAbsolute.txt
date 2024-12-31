@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\obj\Debug\Transpose.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\obj\Debug\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\bin\Debug\Transpose.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\bin\Debug\Transpose.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\bin\Debug\Transpose.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\obj\Debug\Transpose.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Transpose\Transpose\obj\Debug\Transpose.pdb

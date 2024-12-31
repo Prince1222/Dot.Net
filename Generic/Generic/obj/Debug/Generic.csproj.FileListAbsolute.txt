@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Generic\Generic\obj\Debug\Generic.pdb

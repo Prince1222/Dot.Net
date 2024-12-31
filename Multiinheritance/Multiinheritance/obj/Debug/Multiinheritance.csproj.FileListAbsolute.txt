@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\bin\Debug\Multiinheritance.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\bin\Debug\Multiinheritance.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\bin\Debug\Multiinheritance.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\obj\Debug\Multiinheritance.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\obj\Debug\Multiinheritance.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\obj\Debug\Multiinheritance.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiinheritance\Multiinheritance\obj\Debug\Multiinheritance.pdb

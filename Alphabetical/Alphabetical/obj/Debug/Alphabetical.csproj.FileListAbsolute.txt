@@ -1,0 +1,2 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Alphabetical\Alphabetical\obj\Debug\Alphabetical.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Alphabetical\Alphabetical\obj\Debug\Alphabetical.csproj.CoreCompileInputs.cache

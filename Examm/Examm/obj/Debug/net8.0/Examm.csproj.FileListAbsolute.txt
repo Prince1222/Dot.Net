@@ -1,0 +1,11 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\bin\Debug\net8.0\Examm.deps.json
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\bin\Debug\net8.0\Examm.dll
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\bin\Debug\net8.0\Examm.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\Examm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\Examm.AssemblyInfoInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\Examm.AssemblyInfo.cs
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\Examm.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\Examm.dll
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\refint\Examm.dll
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\Examm.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Examm\Examm\obj\Debug\net8.0\ref\Examm.dll

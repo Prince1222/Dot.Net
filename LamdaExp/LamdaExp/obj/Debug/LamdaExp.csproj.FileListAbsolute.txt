@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\bin\Debug\LamdaExp.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\bin\Debug\LamdaExp.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\bin\Debug\LamdaExp.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\obj\Debug\LamdaExp.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\obj\Debug\LamdaExp.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\obj\Debug\LamdaExp.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\LamdaExp\LamdaExp\obj\Debug\LamdaExp.pdb

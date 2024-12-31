@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\bin\Debug\UnaryMinus.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\bin\Debug\UnaryMinus.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\bin\Debug\UnaryMinus.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\obj\Debug\UnaryMinus.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\obj\Debug\UnaryMinus.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\obj\Debug\UnaryMinus.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UnaryMinus\UnaryMinus\obj\Debug\UnaryMinus.pdb

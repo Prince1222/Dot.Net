@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Employee\Employee\obj\Debug\Employee.pdb

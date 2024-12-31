@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\bin\Debug\one2.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\bin\Debug\one2.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\bin\Debug\one2.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\obj\Debug\one2.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\obj\Debug\one2.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\obj\Debug\one2.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\one2\one2\obj\Debug\one2.pdb

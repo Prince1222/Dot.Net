@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Multiplication\Multiplication\obj\Debug\Multiplication.pdb

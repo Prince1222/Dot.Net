@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\bin\Debug\UseInterface.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\bin\Debug\UseInterface.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\bin\Debug\UseInterface.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\obj\Debug\UseInterface.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\obj\Debug\UseInterface.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\obj\Debug\UseInterface.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\UseInterface\UseInterface\obj\Debug\UseInterface.pdb

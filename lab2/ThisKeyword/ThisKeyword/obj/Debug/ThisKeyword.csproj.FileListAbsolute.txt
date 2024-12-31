@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\bin\Debug\ThisKeyword.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\bin\Debug\ThisKeyword.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\bin\Debug\ThisKeyword.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\obj\Debug\ThisKeyword.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\obj\Debug\ThisKeyword.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\obj\Debug\ThisKeyword.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\lab2\ThisKeyword\ThisKeyword\obj\Debug\ThisKeyword.pdb

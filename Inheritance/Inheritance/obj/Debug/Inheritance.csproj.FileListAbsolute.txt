@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

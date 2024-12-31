@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\bin\Debug\Hierachicalinheritance.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\bin\Debug\Hierachicalinheritance.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\bin\Debug\Hierachicalinheritance.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\obj\Debug\Hierachicalinheritance.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\obj\Debug\Hierachicalinheritance.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\obj\Debug\Hierachicalinheritance.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Hierachicalinheritance\Hierachicalinheritance\obj\Debug\Hierachicalinheritance.pdb

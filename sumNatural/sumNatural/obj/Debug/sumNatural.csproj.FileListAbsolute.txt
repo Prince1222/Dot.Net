@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\obj\Debug\sumNatural.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\obj\Debug\sumNatural.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\bin\Debug\sumNatural.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\bin\Debug\sumNatural.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\bin\Debug\sumNatural.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\obj\Debug\sumNatural.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\sumNatural\sumNatural\obj\Debug\sumNatural.pdb

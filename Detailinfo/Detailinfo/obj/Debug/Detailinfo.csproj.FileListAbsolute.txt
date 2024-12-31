@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\bin\Debug\Detailinfo.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\bin\Debug\Detailinfo.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\bin\Debug\Detailinfo.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\obj\Debug\Detailinfo.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\obj\Debug\Detailinfo.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\obj\Debug\Detailinfo.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Detailinfo\Detailinfo\obj\Debug\Detailinfo.pdb

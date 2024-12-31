@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\bin\Debug\Star.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\bin\Debug\Star.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\bin\Debug\Star.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\obj\Debug\Star.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\obj\Debug\Star.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\obj\Debug\Star.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Star\Star\obj\Debug\Star.pdb

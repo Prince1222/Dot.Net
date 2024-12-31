@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\obj\Debug\Primenumber.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\obj\Debug\Primenumber.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\bin\Debug\Primenumber.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\bin\Debug\Primenumber.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\bin\Debug\Primenumber.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\obj\Debug\Primenumber.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\Primenumber\Primenumber\obj\Debug\Primenumber.pdb

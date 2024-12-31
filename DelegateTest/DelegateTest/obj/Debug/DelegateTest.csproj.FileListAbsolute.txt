@@ -1,0 +1,7 @@
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe.config
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\obj\Debug\DelegateTest.csproj.AssemblyReference.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\obj\Debug\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\obj\Debug\DelegateTest.exe
+C:\Users\zsawi\OneDrive\Desktop\dotnet\DelegateTest\DelegateTest\obj\Debug\DelegateTest.pdb
